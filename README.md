@@ -9,7 +9,7 @@ This project is for educational porpuses only. Pull request are welcome, but pri
 
 Site published at: https://front-end-by-rimantas.github.io/55-grupe-serlokas
 
-Design: alt ! [alt text](./original-design.png)
+Design: ![alt text](./original-design.png)
 
 🎯 Project features/goals
 Github pages
